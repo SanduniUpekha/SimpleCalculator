@@ -16,7 +16,7 @@
 - Clear Function: Allows you to reset the calculator's display.
 - User-Friendly Interface: Simple and easy-to-use design.
 
-<!-->
+<!--
 📷 Screenshots:
 ![Calculator Screenshot](calculator-screenshot.png)
 -->
