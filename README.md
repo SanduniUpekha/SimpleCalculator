@@ -1,8 +1,7 @@
 <p align="center">
-  <a href="https://cdn.dribbble.com/users/29736/screenshots/1298208/calc.gif" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmRB-a0p_jU0AtMxNLTdFHSIKA0PyIP9JA_g&usqp=CAU" alt="Calculator Icon" width="100" height="100">
-  </a>
+  <img src="https://cdn.dribbble.com/users/29736/screenshots/1298208/calc.gif" alt="Calculator Gif" width="100" height="100">
 </p>
+
 # Simple Calculator - Java Swing Project
 
 📚 Inspired by several websites and YouTube videos, this is a Simple Calculator application built in Java using Swing and AWT. 
